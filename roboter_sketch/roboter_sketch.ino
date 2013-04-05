@@ -3,7 +3,7 @@
 
 Servo myservo;
 
-
+// this is a comment
 const boolean DEBUG = false;
 
 const int panelButtonPin = 2;
